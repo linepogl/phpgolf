@@ -1,0 +1,1 @@
+<?preg_replace('/[QKJ0]. A|A. [QKJ1]/',X,BJACK,-1,$d);echo$d;

@@ -1,7 +1,6 @@
 <?php
-<<<<<<< HEAD
-
-define('STR',"30 + 459
+const STR=
+"30 + 459
 117 * 841
 420 * 835
 232 * 2
@@ -100,9 +99,7 @@ define('STR',"30 + 459
 602 - 34
 868 / 985
 953 + 573
-977 * 701");
+977 * 701";
 
-include('math-inner.php');
-=======
-foreach(split(~õ,STR)as$g)echo eval("round($g)"),~õ;
->>>>>>> 19787e23308d4d44040108cc133f5d56357e365d
+include 'math.php'
+?>
