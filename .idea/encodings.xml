@@ -2,6 +2,9 @@
 <project version="4">
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
     <file url="file://$PROJECT_DIR$/equiv-inner.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/morse-inner.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/sierp-inner.php" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/vowels-inner.php" charset="ISO-8859-1" />
   </component>
 </project>
 

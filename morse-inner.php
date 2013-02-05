@@ -1,0 +1,1 @@
+<?$a='PX\^_ogca`@@@@@@Bwu{AMyOCHzK|}xIrEG~FNDvts';for($é=strtr(STR,~Ïß,~ÅÄ);$è=$é[$î++];){$x=ord($a[ord($è)-49]);for($b=$x&$m=32;$m&&($x&$m?$b:!$b);)$m>>=1;for($m*=2;$m>>=1;)echo$x&$m?~Ñ:~Ò;echo~ß;}

@@ -1,17 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aecf1ca4-c508-4f19-9d95-0d08cefe7240" name="Default" comment="" />
+    <list default="true" id="aecf1ca4-c508-4f19-9d95-0d08cefe7240" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="phpgolf.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359021358480" ignored="false" />
+    <file path="/Dummy.txt" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359380189163" ignored="false" />
     <file path="/kaprekars.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1358959661172" ignored="false" />
     <file path="/kaprekars-inner.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359022032165" ignored="false" />
     <file path="/subsetsum-inner.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359024123071" ignored="false" />
     <file path="/math-inner.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359026143428" ignored="false" />
     <file path="/equiv-inner.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359047605707" ignored="false" />
-    <file path="/a.dummy" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359035877363" ignored="false" />
+    <file path="/a.dummy" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359454120156" ignored="false" />
     <file path="$PROJECT_DIR$/../vsserver/vspro/www/vsp/src/Schedule/QuickScheduleAction.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359035912498" ignored="false" />
+    <file path="/sierp.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359105899036" ignored="false" />
+    <file path="/sierp-inner.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359117873245" ignored="false" />
+    <file path="/sorting.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359121476644" ignored="false" />
+    <file path="$PROJECT_DIR$/../vsserver/vspro/www/vsp/src/VSPro.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359121761147" ignored="false" />
+    <file path="/sorting-inner.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359121950068" ignored="false" />
+    <file path="/_.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359122792608" ignored="false" />
+    <file path="$PROJECT_DIR$/../vsserver/vsservlets/www/_.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359122793629" ignored="false" />
+    <file path="$PROJECT_DIR$/../vsserver/vspro/www/supports/terminal/add.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359123321736" ignored="false" />
+    <file path="/add.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359122995939" ignored="false" />
+    <file path="$PROJECT_DIR$/../vsserver/vspro/www/vsp/src/Network/Terminals/ActionForceTerminalToSendLocalConfig.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359123321736" ignored="false" />
+    <file path="/ActionForceTerminalToSendLocalConfig.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359123309014" ignored="false" />
+    <file path="$PROJECT_DIR$/../vsserver/vsa/src/VSApi.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359125395291" ignored="false" />
+    <file path="/VSApi.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359124906014" ignored="false" />
+    <file path="/morse.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359129549540" ignored="false" />
+    <file path="/morse-inner.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359451765825" ignored="false" />
+    <file path="$PROJECT_DIR$/../vsserver/vsa/dictionary.xml" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359471285687" ignored="false" />
+    <file path="/dictionary.xml" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359453973624" ignored="false" />
+    <file path="$PROJECT_DIR$/../vsserver/vsa/src/Network/CommandAPI.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359471285687" ignored="false" />
+    <file path="$PROJECT_DIR$/../vsserver/vsa/src/Network/Command.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359471285688" ignored="false" />
+    <file path="/Command.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359463239173" ignored="false" />
+    <file path="$PROJECT_DIR$/../vsserver/vsa/src/Network/TerminalAlarmAPI.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359471285687" ignored="false" />
+    <file path="/TerminalAlarmAPI.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359454970889" ignored="false" />
+    <file path="$PROJECT_DIR$/../vsserver/vsa/_upgrade.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359471285687" ignored="false" />
+    <file path="$PROJECT_DIR$/../vsserver/vsa/src/Engine/BatchJobAPI.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359471285687" ignored="false" />
+    <file path="/BatchJobAPI.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359453708134" ignored="false" />
+    <file path="/ActionUpdateProgress.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359454880026" ignored="false" />
+    <file path="$PROJECT_DIR$/../vsserver/oxy/src/Actions/Progress/ActionUpdateProgress.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359471285687" ignored="false" />
+    <file path="$PROJECT_DIR$/../vsserver/oxy/src/Actions/Progress/ActionCancelProgress.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359471285687" ignored="false" />
+    <file path="/ActionCancelProgress.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359453845654" ignored="false" />
+    <file path="$PROJECT_DIR$/../vsserver/vspro/www/test.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359454419537" ignored="false" />
+    <file path="/test.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359454414704" ignored="false" />
+    <file path="/CommandAPI.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359464910018" ignored="false" />
+    <file path="$PROJECT_DIR$/../vsserver/vspro/www/system/emergency/list.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359468423345" ignored="false" />
+    <file path="/list.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359468384059" ignored="false" />
+    <file path="$PROJECT_DIR$/../vsserver/vsa/src/Content/RawFileAPI.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359471285687" ignored="false" />
+    <file path="/vowels.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359471456635" ignored="false" />
+    <file path="/vowels-inner.php" changelist="aecf1ca4-c508-4f19-9d95-0d08cefe7240" time="1359481590375" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,76 +65,27 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="kaprekars.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kaprekars.php">
+      <file leaf-file-name="vowels.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vowels.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="61" selection-end="61" vertical-scroll-proportion="-0.6666667">
+            <state line="22" column="12" selection-start="165" selection-end="165" vertical-scroll-proportion="-14.666667">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kaprekars-inner.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kaprekars-inner.php">
+      <file leaf-file-name="vowels-inner.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vowels-inner.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="92" selection-start="92" selection-end="92" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="math.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/math.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="8" selection-start="369" selection-end="369" vertical-scroll-proportion="-18.291666">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strjust.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strjust.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="16" selection-start="582" selection-end="582" vertical-scroll-proportion="-8.666667">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="equiv.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/equiv.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="14" selection-start="277" selection-end="277" vertical-scroll-proportion="-8.666667">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="equiv-inner.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/equiv-inner.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="3" selection-start="189" selection-end="189" vertical-scroll-proportion="0.02582728">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strjust-inner.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strjust-inner.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="5" selection-end="5" vertical-scroll-proportion="-2.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="math-inner.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/math-inner.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="20" selection-start="58" selection-end="58" vertical-scroll-proportion="-0.6666667">
+            <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -118,8 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/kaprekars.php" />
-        <option value="$PROJECT_DIR$/kaprekars-inner.php" />
         <option value="$PROJECT_DIR$/subsetsum.php" />
         <option value="$PROJECT_DIR$/subsetsum-inner.php" />
         <option value="$PROJECT_DIR$/math.php" />
@@ -128,6 +117,14 @@
         <option value="$PROJECT_DIR$/strjust-inner.php" />
         <option value="$PROJECT_DIR$/equiv.php" />
         <option value="$PROJECT_DIR$/equiv-inner.php" />
+        <option value="$PROJECT_DIR$/sierp.php" />
+        <option value="$PROJECT_DIR$/sierp-inner.php" />
+        <option value="$PROJECT_DIR$/sorting.php" />
+        <option value="$PROJECT_DIR$/sorting-inner.php" />
+        <option value="$PROJECT_DIR$/morse.php" />
+        <option value="$PROJECT_DIR$/morse-inner.php" />
+        <option value="$PROJECT_DIR$/vowels.php" />
+        <option value="$PROJECT_DIR$/vowels-inner.php" />
       </list>
     </option>
   </component>
@@ -163,7 +160,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -184,10 +180,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="PublishConfig" serverName="localhost" serverId="2071836c-01a1-4122-818b-79062e0454f8">
     <servers>
@@ -219,7 +217,10 @@
       <TestRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="2071836c-01a1-4122-818b-79062e0454f8" server_name="localhost">
       <method />
     </configuration>
     <list size="0" />
@@ -239,9 +240,9 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14882812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -314,86 +315,90 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kaprekars.php">
+    <entry file="file://$PROJECT_DIR$/strjust-inner.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kaprekars-inner.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="119" selection-start="115" selection-end="119" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kaprekars.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="61" selection-end="61" vertical-scroll-proportion="-0.6666667">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kaprekars-inner.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="92" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subsetsum-inner.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="84" selection-start="102" selection-end="102" vertical-scroll-proportion="0.01291364">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subsetsum.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="18" selection-start="355" selection-end="355" vertical-scroll-proportion="0.29701373">
-          <folding />
-        </state>
+        <state line="3" column="0" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/math-inner.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="20" selection-start="58" selection-end="58" vertical-scroll-proportion="-0.6666667">
-          <folding />
-        </state>
+        <state line="1" column="20" selection-start="58" selection-end="58" vertical-scroll-proportion="-0.6666667" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/math.php">
+    <entry file="file://$PROJECT_DIR$/sorting-inner.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="8" selection-start="369" selection-end="369" vertical-scroll-proportion="-18.291666">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strjust-inner.php">
+    <entry file="file://$PROJECT_DIR$/sorting.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="5" selection-end="5" vertical-scroll-proportion="-2.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strjust.php">
+    <entry file="file://$PROJECT_DIR$/sierp-inner.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="16" selection-start="582" selection-end="582" vertical-scroll-proportion="-8.666667">
-          <folding />
-        </state>
+        <state line="0" column="134" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/equiv.php">
+    <entry file="file://$PROJECT_DIR$/sierp.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="14" selection-start="277" selection-end="277" vertical-scroll-proportion="-8.666667">
-          <folding />
-        </state>
+        <state line="4" column="27" selection-start="50" selection-end="50" vertical-scroll-proportion="0.05165456" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/equiv-inner.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="3" selection-start="189" selection-end="189" vertical-scroll-proportion="0.02582728">
+        <state line="2" column="3" selection-start="189" selection-end="189" vertical-scroll-proportion="0.02582728" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/equiv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="14" selection-start="277" selection-end="277" vertical-scroll-proportion="0.16787732" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strjust.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="16" selection-start="582" selection-end="582" vertical-scroll-proportion="0.16787732" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="8" selection-start="382" selection-end="382" vertical-scroll-proportion="0.018563358" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaprekars-inner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="92" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaprekars.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0645682" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/morse-inner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="89" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/morse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="20" selection-start="1271" selection-end="1271" vertical-scroll-proportion="0.11745514">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vowels.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="12" selection-start="165" selection-end="165" vertical-scroll-proportion="-14.666667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vowels-inner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
